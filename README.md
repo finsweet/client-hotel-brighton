@@ -1,6 +1,6 @@
 # Hotel Brigton
 
-This repo contains code for hotel brighton XML data to webflow functionality.
+This repository contains code for hotel brighton XML data to webflow functionality.
 
 
 
